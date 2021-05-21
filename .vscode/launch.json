@@ -1,0 +1,10 @@
+{
+	"configurations": [
+		{
+			"type": "pwa-node",
+			"name": "postgresSQL",
+			"request": "launch",
+			"program": "${workspaceFolder}\\alex-pg.js"
+		}
+	]
+}
